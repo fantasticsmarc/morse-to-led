@@ -3,6 +3,11 @@
 Morse to LED is an embedded systems project that converts Morse code input into LED-based output patterns using a microcontroller platform.
 
 It is designed as a practical project for learning electronics, signal encoding, and basic hardware-software interaction.
+<br>
+<br>
+<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>ç
+<br>
+<br>
 
 ## Features
 - Morse code interpretation
@@ -32,10 +37,10 @@ Typical hardware used in this type of project:
 - Work with basic embedded programming concepts
 
 ## Possible improvements
-- Add buzzer output
-- Add LCD or OLED display
-- Add serial input support
-- Support decoding as well as encoding
+- [ ] Add buzzer output
+- [ ] Add LCD or OLED display
+- [ ] Add serial input support
+- [ ] Support decoding as well as encoding
 
 ## License
 MIT  

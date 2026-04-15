@@ -38,4 +38,4 @@ Typical hardware used in this type of project:
 - Support decoding as well as encoding
 
 ## License
-Add a license file if you want other people to reuse or modify the project.
+MIT  

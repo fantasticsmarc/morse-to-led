@@ -5,7 +5,7 @@ Morse to LED is an embedded systems project that converts Morse code input into 
 It is designed as a practical project for learning electronics, signal encoding, and basic hardware-software interaction.
 <br>
 <br>
-<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>ç
+<img align="left" alt="Arduino" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
 <br>
 <br>
 

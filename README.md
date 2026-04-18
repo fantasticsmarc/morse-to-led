@@ -15,12 +15,20 @@ It is designed as a practical project for learning electronics, signal encoding,
 - Microcontroller-based implementation
 - Educational and easy to extend
 
-## Hardware
-Typical hardware used in this type of project:
-- Microcontroller board
-- LED
-- Resistors
-- Breadboard and jumper wires
+## Materials
+
+<div>
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+        <p> 1. Arduino UNO R3 Board</p>
+        <img src="https://i.ibb.co/nR6ZPp4/71z22c-RPee-L.jpg" width="400" alt="Arduino UNO R3 Board">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## File overview
 - `morse_to_led.ino`: main Arduino-compatible sketch for the project
